@@ -1,7 +1,7 @@
 <div align="center">
 
 # SPUTIL
-Simply your C++ programming experience
+Simplify your C++ programming experience
 
 </div>
 
